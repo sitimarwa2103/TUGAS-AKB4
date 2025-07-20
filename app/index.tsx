@@ -5,10 +5,10 @@ export default function TugasAkhirMajeri() {
     <SafeAreaView style={jeryVisual.latar}>
       <ScrollView contentContainerStyle={jeryVisual.konten}>
         <Text style={[jeryVisual.judul, { fontFamily: 'Anton-Regular' }]}>
-          Final Project - Majeri
+          Final Project - Citimarwa
         </Text>
         <Text style={jeryVisual.subJudul}>
-          Referensi Stambuk: 105841103622
+          Referensi Stambuk: 105841100122
         </Text>
         <View style={jeryVisual.pemisah} />
         {/* --- 5 NAMA DENGAN FONT STATIS --- */}
