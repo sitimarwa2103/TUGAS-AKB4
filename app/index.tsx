@@ -13,13 +13,13 @@ export default function TugasAkhirMajeri() {
         <View style={jeryVisual.pemisah} />
         {/* --- 5 NAMA DENGAN FONT STATIS --- */}
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Anton-Regular' }]}>
-          Ali sulton s palilati{'\n'}(105841102222)
+          Andi Citra Ayu Lestari{'\n'}(105841101722)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Merriweather-Regular', fontSize: 20 }]}>
-          ahmad fathir{'\n'}(105841102922)
+          Nur Milani Hidayah{'\n'}(105841100822)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Nunito-Light', color: '#333' }]}>
-          Muhammad Faturrachman iswan{'\n'}(105841103322)
+          Nabila Ismail Matta{'\n'}(105841100722)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'PlayfairDisplay-Regular', fontStyle: 'italic' }]}>
           Nurmisba{'\n'}(105841103422)
